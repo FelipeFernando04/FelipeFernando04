@@ -75,17 +75,11 @@ Concluí o ensino médio e atualmente estou cursando Análise e Desenvolvimento 
 
 ### 📊 Estatísticas
 
+
 <img
     align="left"
     alt="Github Stats"
     height="200px"
     style="padding-right:10px"
-    src ="https://github-readme-stats.vercel.app/api?username=SilasTristoni&show_icons=true&theme=radical&layout=compact"
-/>
-<img
-    align="left"
-    alt="Github Stats"
-    height="200px"
-    style="padding-right:10px"
-    src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SilasTristoni&theme=radical&layout=compact"
+    src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFernando04&theme=radical&layout=compact"
 />
