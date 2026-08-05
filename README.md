@@ -76,10 +76,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por tecn
 ### 📊 Estatísticas
 
 
-<img 
-  align="left" 
-  alt="Github Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=FelipeFernando04&theme=radical&layout=compact" 
-/>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeFernando04&theme=radical&show_icons=true" width="32%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=FelipeFernando04&theme=radical&layout=compact" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeFernando04&theme=radical" width="32%" />
+</p>
