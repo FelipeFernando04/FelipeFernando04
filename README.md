@@ -4,8 +4,8 @@
 
 Sobre Mim
 
-Me chamo Felipe, tenho 20 anos e sou natural de Joinville, Santa Catarina. 
-Concluí o ensino médio e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por tecnologia e programação, busco compartilhar meus conhecimentos e experiências no universo do desenvolvimento de sistemas. Estou sempre aprendendo sobre novas ferramentas, linguagens de programação e tendências do mercado. Meu objetivo é crescer como profissional de tecnologia, aplicando minha criatividade e habilidades para criar soluções que gerem impacto positivo.
+Me chamo Felipe, tenho 22 anos e sou natural de Joinville, Santa Catarina.
+Sou formado em Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por tecnologia e programação, busco compartilhar meus conhecimentos e experiências no universo do desenvolvimento de sistemas. Estou sempre aprendendo sobre novas ferramentas, linguagens de programação e tendências do mercado. Meu objetivo é crescer como profissional de tecnologia, aplicando minha criatividade e habilidades para criar soluções que gerem impacto positivo.
 
 ---
 
