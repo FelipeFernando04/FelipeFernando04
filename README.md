@@ -78,8 +78,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por tecn
 
 <img 
   align="left" 
-  alt="Github Streak" 
+  alt="Github Stats" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeFernando04&theme=radical" 
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeFernando04&theme=radical&show_icons=true" 
 />
